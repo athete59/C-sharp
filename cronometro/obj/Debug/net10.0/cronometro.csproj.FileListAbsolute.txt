@@ -1,0 +1,14 @@
+C:\Users\doida\Documents\C#\cronometro\bin\Debug\net10.0\cronometro.exe
+C:\Users\doida\Documents\C#\cronometro\bin\Debug\net10.0\cronometro.deps.json
+C:\Users\doida\Documents\C#\cronometro\bin\Debug\net10.0\cronometro.runtimeconfig.json
+C:\Users\doida\Documents\C#\cronometro\bin\Debug\net10.0\cronometro.dll
+C:\Users\doida\Documents\C#\cronometro\bin\Debug\net10.0\cronometro.pdb
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\cronometro.AssemblyInfoInputs.cache
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\cronometro.AssemblyInfo.cs
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\cronometro.csproj.CoreCompileInputs.cache
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\cronometro.dll
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\refint\cronometro.dll
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\cronometro.pdb
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\cronometro.genruntimeconfig.cache
+C:\Users\doida\Documents\C#\cronometro\obj\Debug\net10.0\ref\cronometro.dll
