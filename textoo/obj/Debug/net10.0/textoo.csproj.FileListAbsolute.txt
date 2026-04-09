@@ -1,0 +1,14 @@
+C:\Users\doida\Documents\C#\texto\textoo\bin\Debug\net10.0\textoo.exe
+C:\Users\doida\Documents\C#\texto\textoo\bin\Debug\net10.0\textoo.deps.json
+C:\Users\doida\Documents\C#\texto\textoo\bin\Debug\net10.0\textoo.runtimeconfig.json
+C:\Users\doida\Documents\C#\texto\textoo\bin\Debug\net10.0\textoo.dll
+C:\Users\doida\Documents\C#\texto\textoo\bin\Debug\net10.0\textoo.pdb
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\textoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\textoo.AssemblyInfoInputs.cache
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\textoo.AssemblyInfo.cs
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\textoo.csproj.CoreCompileInputs.cache
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\textoo.dll
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\refint\textoo.dll
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\textoo.pdb
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\textoo.genruntimeconfig.cache
+C:\Users\doida\Documents\C#\texto\textoo\obj\Debug\net10.0\ref\textoo.dll
